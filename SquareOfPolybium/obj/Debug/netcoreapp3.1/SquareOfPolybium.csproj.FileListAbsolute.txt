@@ -1,0 +1,13 @@
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\bin\Debug\netcoreapp3.1\SquareOfPolybium.exe
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\bin\Debug\netcoreapp3.1\SquareOfPolybium.deps.json
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\bin\Debug\netcoreapp3.1\SquareOfPolybium.runtimeconfig.json
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\bin\Debug\netcoreapp3.1\SquareOfPolybium.runtimeconfig.dev.json
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\bin\Debug\netcoreapp3.1\SquareOfPolybium.dll
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\bin\Debug\netcoreapp3.1\SquareOfPolybium.pdb
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\obj\Debug\netcoreapp3.1\SquareOfPolybium.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\obj\Debug\netcoreapp3.1\SquareOfPolybium.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\obj\Debug\netcoreapp3.1\SquareOfPolybium.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\obj\Debug\netcoreapp3.1\SquareOfPolybium.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\obj\Debug\netcoreapp3.1\SquareOfPolybium.dll
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\obj\Debug\netcoreapp3.1\SquareOfPolybium.pdb
+C:\Users\Pavel\Desktop\Курсови работи\SquareOfPolybium\SquareOfPolybium\obj\Debug\netcoreapp3.1\SquareOfPolybium.genruntimeconfig.cache
